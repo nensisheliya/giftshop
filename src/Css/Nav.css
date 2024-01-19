@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+  #nav{
+    display: flex;
+    justify-content:space-around;
+    background-color:#ffffff;
+}
+.link{
+    text-decoration: none;
+    color:#101010;
+    font-size: 25px;
+    align-items: flex-start;
+    font-family: sans-serif;
+    font-style: normal;
+    padding: 10px;  
+}
